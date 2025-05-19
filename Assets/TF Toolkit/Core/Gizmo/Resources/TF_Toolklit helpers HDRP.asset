@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cf9ed8c9e72ba041a4a838c8e560819, type: 3}
+  m_Name: TF_Toolklit helpers HDRP
+  m_EditorClassIdentifier: 
+  OpaqueRed: {fileID: 2100000, guid: eff2e2d5f7b78184c99536cc3b0a6b5a, type: 2}
+  OpaqueGreen: {fileID: 2100000, guid: dbccdb5ae80aada40853855c4ae68cbe, type: 2}
+  OpaqueBlue: {fileID: 2100000, guid: 388d059ec1b01a8498bd51f64b6863c4, type: 2}
+  TransparentRed: {fileID: 2100000, guid: 7367b8ab530e01f41ade7b2018295bc1, type: 2}
+  TransparentGreen: {fileID: 2100000, guid: db9e44db0a60f2a46a5db4e037c49d80, type: 2}
+  TransparentBlue: {fileID: 2100000, guid: db789304f58449149adf30db2eeee09d, type: 2}
+  Capsule: {fileID: 4300000, guid: 9415b1bed80c22046ad5e500fb9a8501, type: 2}
+  Circle: {fileID: 4300000, guid: 1a96b30080d3db44fbb8e404dce4b8bc, type: 2}
+  Cone: {fileID: 4300000, guid: ce314d1f3ba35b54ea0a32f8fe6d56fa, type: 2}
+  Cube: {fileID: 4300000, guid: a0bf3285b985ca8498f06c39aa9e76a4, type: 2}
+  Cylinder: {fileID: 4300000, guid: 50d0a0e3627e360469717bcbdabb1173, type: 2}
+  CylinderWithoutCaps: {fileID: 4300000, guid: 0b7ce8e57ecc6c1419c38a1439877359, type: 2}
+  HalfSphereWithoutCap: {fileID: 4300000, guid: 6a9fb230e1be7b94bb082f5a56983ce1,
+    type: 2}
+  Plane: {fileID: 4300000, guid: 24bbd720a18a5a640a6f54bdb344b448, type: 2}
+  Sphere: {fileID: 4300000, guid: 3ca05e59ec2633a4fb4aa60ae3c019b1, type: 2}
